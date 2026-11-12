@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Search</title>
+    <link rel="stylesheet" href="/public/css/mariogame.css" />
+  </head>
+  <body>
+    <h1>Release Search</h1>
+
+    <div class="filters">
+      <input id="gameName" placeholder="Title" />
+      <input id="gameRelease" placeholder="Release Year" />
+      <select id="sort">
+        <option value="gameName">Sort by title</option>
+        <option value="gameRelease">Sort by year</option>
+        <option value="gameDev">Sort by developer</option>
+      </select>
+      <button id="searchBtn">Search</button>
+    </div>
+
+    <p id="status"></p>
+    <ul id="results"></ul>
+  </body>
+</html>
