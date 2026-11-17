@@ -1,0 +1,14 @@
+.bar {
+  position: fixed;
+  align-items: left;
+  padding: -10px;
+  margin: -8px;
+  margin-top: -25px;
+  background: #ff0000;
+}
+.bar img {
+  width: 25%;
+  height: 25%;
+  object-fit: fill;
+  margin: 8px;
+}
