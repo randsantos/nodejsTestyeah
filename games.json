@@ -1,0 +1,850 @@
+{
+    "game": [
+        {
+            "gameId": 1,
+            "gameName": "Donkey Kong",
+            "gameRelease": "1980",
+            "gameDev": "1",
+            "gameConsole": "2",
+            "canon": "Y",
+            "timePos": null,
+            "gameRegion": "W",
+            "spinoff": "N",
+            "Subseries": "1"
+        },
+        {
+            "gameId": 2,
+            "gameName": "Crazy Kong",
+            "gameRelease": "1980",
+            "gameDev": "2",
+            "gameConsole": "2",
+            "canon": "N",
+            "timePos": null,
+            "gameRegion": "JP US",
+            "spinoff": "B",
+            "Subseries": "2"
+        },
+        {
+            "gameId": 3,
+            "gameName": "Crazy Kong Part II",
+            "gameRelease": "1981",
+            "gameDev": "2",
+            "gameConsole": null,
+            "canon": "N",
+            "timePos": null,
+            "gameRegion": "JP US",
+            "spinoff": "B",
+            "Subseries": "2"
+        },
+        {
+            "gameId": 4,
+            "gameName": "Donkey Kong",
+            "gameRelease": "1982",
+            "gameDev": "1",
+            "gameConsole": "3",
+            "canon": "M",
+            "timePos": null,
+            "gameRegion": "W",
+            "spinoff": "N",
+            "Subseries": "1"
+        },
+        {
+            "gameId": 5,
+            "gameName": "Donkey Kong Jr.",
+            "gameRelease": "1982",
+            "gameDev": "1",
+            "gameConsole": "2",
+            "canon": "Y",
+            "timePos": null,
+            "gameRegion": "W",
+            "spinoff": "N",
+            "Subseries": "3"
+        },
+        {
+            "gameId": 6,
+            "gameName": "Donkey Kong Jr.",
+            "gameRelease": "1982",
+            "gameDev": "1",
+            "gameConsole": "3",
+            "canon": "M",
+            "timePos": null,
+            "gameRegion": "JP US",
+            "spinoff": "N",
+            "Subseries": "3"
+        },
+        {
+            "gameId": 7,
+            "gameName": "Green House",
+            "gameRelease": "1982",
+            "gameDev": "1",
+            "gameConsole": "4",
+            "canon": "M",
+            "timePos": null,
+            "gameRegion": null,
+            "spinoff": "N",
+            "Subseries": "4"
+        },
+        {
+            "gameId": 8,
+            "gameName": "Donkey Kong II",
+            "gameRelease": "1983",
+            "gameDev": null,
+            "gameConsole": null,
+            "canon": "M",
+            "timePos": null,
+            "gameRegion": "W",
+            "spinoff": "N",
+            "Subseries": "3"
+        },
+        {
+            "gameId": 9,
+            "gameName": "Mario Bros.",
+            "gameRelease": "1983",
+            "gameDev": "1",
+            "gameConsole": "3",
+            "canon": "Y",
+            "timePos": null,
+            "gameRegion": "W",
+            "spinoff": "N",
+            "Subseries": "5"
+        },
+        {
+            "gameId": 10,
+            "gameName": "Donkey Kong Jr. ",
+            "gameRelease": "1983",
+            "gameDev": "1",
+            "gameConsole": "3",
+            "canon": "M",
+            "timePos": null,
+            "gameRegion": "JP US",
+            "spinoff": "N",
+            "Subseries": "3"
+        },
+        {
+            "gameId": 11,
+            "gameName": "Mario's Cement Factory",
+            "gameRelease": "1983",
+            "gameDev": "1",
+            "gameConsole": "3",
+            "canon": "Y",
+            "timePos": null,
+            "gameRegion": null,
+            "spinoff": "Y",
+            "Subseries": "4"
+        },
+        {
+            "gameId": 12,
+            "gameName": "Mario Bros.",
+            "gameRelease": "1983",
+            "gameDev": "1",
+            "gameConsole": "2",
+            "canon": "Y",
+            "timePos": null,
+            "gameRegion": "W",
+            "spinoff": "N",
+            "Subseries": "5"
+        },
+        {
+            "gameId": 13,
+            "gameName": "1 ドンキーコングJR. 2 JR.算数レッスン",
+            "gameRelease": "1983",
+            "gameDev": "1",
+            "gameConsole": "5",
+            "canon": "M",
+            "timePos": null,
+            "gameRegion": "JP",
+            "spinoff": "Y",
+            "Subseries": "3"
+        },
+        {
+            "gameId": 14,
+            "gameName": "Donkey Kong 3",
+            "gameRelease": "1983",
+            "gameDev": "1",
+            "gameConsole": "2",
+            "canon": "Y",
+            "timePos": null,
+            "gameRegion": "W",
+            "spinoff": "N",
+            "Subseries": "1"
+        },
+        {
+            "gameId": 15,
+            "gameName": "Mario's Bombs Away",
+            "gameRelease": "1983",
+            "gameDev": "1",
+            "gameConsole": "3",
+            "canon": "Y",
+            "timePos": null,
+            "gameRegion": null,
+            "spinoff": "Y",
+            "Subseries": "4"
+        },
+        {
+            "gameId": 16,
+            "gameName": "Donkey Kong Jr. Math",
+            "gameRelease": "1983",
+            "gameDev": "1",
+            "gameConsole": "5",
+            "canon": "M",
+            "timePos": null,
+            "gameRegion": "W",
+            "spinoff": "Y",
+            "Subseries": "3"
+        },
+        {
+            "gameId": 17,
+            "gameName": "Pinball",
+            "gameRelease": "1984",
+            "gameDev": "1",
+            "gameConsole": "5",
+            "canon": "M",
+            "timePos": null,
+            "gameRegion": "W",
+            "spinoff": "Y",
+            "Subseries": "4"
+        },
+        {
+            "gameId": 18,
+            "gameName": "Golf",
+            "gameRelease": "1984",
+            "gameDev": "1",
+            "gameConsole": "5",
+            "canon": null,
+            "timePos": null,
+            "gameRegion": null,
+            "spinoff": "Y",
+            "Subseries": "4"
+        },
+        {
+            "gameId": 19,
+            "gameName": "Mario Bros. Special",
+            "gameRelease": "1984",
+            "gameDev": "3",
+            "gameConsole": "4",
+            "canon": "N",
+            "timePos": null,
+            "gameRegion": "JP",
+            "spinoff": "I",
+            "Subseries": "5"
+        },
+        {
+            "gameId": 20,
+            "gameName": "Vs. Wrecking Crew",
+            "gameRelease": "1983",
+            "gameDev": "1",
+            "gameConsole": "2",
+            "canon": "M",
+            "timePos": null,
+            "gameRegion": "JP US",
+            "spinoff": "N",
+            "Subseries": "6"
+        },
+        {
+            "gameId": 21,
+            "gameName": "Donkey Kong 3",
+            "gameRelease": "1984",
+            "gameDev": "1",
+            "gameConsole": "3",
+            "canon": null,
+            "timePos": null,
+            "gameRegion": null,
+            "spinoff": "Y",
+            "Subseries": "1"
+        },
+        {
+            "gameId": 22,
+            "gameName": "ドンキーコング3 大逆襲",
+            "gameRelease": "1984",
+            "gameDev": "3",
+            "gameConsole": "4",
+            "canon": "N",
+            "timePos": null,
+            "gameRegion": null,
+            "spinoff": "I",
+            "Subseries": "1"
+        },
+        {
+            "gameId": 23,
+            "gameName": "Donkey Kong Circus",
+            "gameRelease": "1984",
+            "gameDev": "1",
+            "gameConsole": "3",
+            "canon": "M",
+            "timePos": null,
+            "gameRegion": "US",
+            "spinoff": "Y",
+            "Subseries": "1"
+        },
+        {
+            "gameId": 24,
+            "gameName": "Punch Ball Mario Bros.",
+            "gameRelease": "1984",
+            "gameDev": "3",
+            "gameConsole": "4",
+            "canon": "N",
+            "timePos": null,
+            "gameRegion": "JP",
+            "spinoff": "I",
+            "Subseries": "5"
+        },
+        {
+            "gameId": 25,
+            "gameName": "Donkey Kong Hockey",
+            "gameRelease": "1984",
+            "gameDev": "1",
+            "gameConsole": "3",
+            "canon": "M",
+            "timePos": null,
+            "gameRegion": null,
+            "spinoff": "Y",
+            "Subseries": "1"
+        },
+        {
+            "gameId": 26,
+            "gameName": "Family Basic",
+            "gameRelease": "1985",
+            "gameDev": "1",
+            "gameConsole": "5",
+            "canon": "N",
+            "timePos": null,
+            "gameRegion": "JP",
+            "spinoff": "Y",
+            "Subseries": "4"
+        },
+        {
+            "gameId": 27,
+            "gameName": "Super Mario Bros.",
+            "gameRelease": "1985",
+            "gameDev": "1",
+            "gameConsole": "5",
+            "canon": "Y",
+            "timePos": null,
+            "gameRegion": "W",
+            "spinoff": "N",
+            "Subseries": "7"
+        },
+        {
+            "gameId": 28,
+            "gameName": "Vs. Super Mario Bros.",
+            "gameRelease": "1986",
+            "gameDev": "1",
+            "gameConsole": "2",
+            "canon": "M",
+            "timePos": null,
+            "gameRegion": "US",
+            "spinoff": "P",
+            "Subseries": "7"
+        }
+    ],
+    "developer": [
+        {
+            "devId": 1,
+            "devName": "Nintendo",
+            "devFound": "1889",
+            "devDeath": "N/A",
+            "devNotable": null
+        },
+        {
+            "devId": 2,
+            "devName": "Falcon",
+            "devFound": "?",
+            "devDeath": "?",
+            "devNotable": "3"
+        },
+        {
+            "devId": 3,
+            "devName": "Hudson Soft",
+            "devFound": "1973",
+            "devDeath": "2012",
+            "devNotable": null
+        }
+    ],
+    "console": [
+        {
+            "conId": 1,
+            "conName": "Sewing Machine",
+            "conRelease": "1790",
+            "conDiscont": "N/A",
+            "conType": "N/A",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "N/A"
+        },
+        {
+            "conId": 2,
+            "conName": "Arcade",
+            "conRelease": "N/A",
+            "conDiscont": "N/A",
+            "conType": "N/A",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "N/A"
+        },
+        {
+            "conId": 3,
+            "conName": "Game & Watch",
+            "conRelease": "1980",
+            "conDiscont": "1991",
+            "conType": "Portable",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Second Generation"
+        },
+        {
+            "conId": 4,
+            "conName": "Home Computer",
+            "conRelease": "N/A",
+            "conDiscont": "N/A",
+            "conType": "N/A",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "N/A"
+        },
+        {
+            "conId": 5,
+            "conName": "Family Computer/Nintendo Entertainment System",
+            "conRelease": "1983",
+            "conDiscont": "2003",
+            "conType": "Console",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Third Generation"
+        },
+        {
+            "conId": 6,
+            "conName": "Adobe Shockwave",
+            "conRelease": "1985",
+            "conDiscont": "2019",
+            "conType": "Multimedia Software Platform",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "N/A"
+        },
+        {
+            "conId": 7,
+            "conName": "Family Computer Disk System",
+            "conRelease": "1986",
+            "conDiscont": "2003",
+            "conType": "Add-on",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Third Generation"
+        },
+        {
+            "conId": 8,
+            "conName": "Terebikko",
+            "conRelease": "1988",
+            "conDiscont": "1994",
+            "conType": "VHS Console",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "N/A"
+        },
+        {
+            "conId": 9,
+            "conName": "Family Computer Network System",
+            "conRelease": "1988",
+            "conDiscont": "?",
+            "conType": "Add-on",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Third Generation"
+        },
+        {
+            "conId": 10,
+            "conName": "Game Boy",
+            "conRelease": "1989",
+            "conDiscont": "2003",
+            "conType": "Portable",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Fourth Generation"
+        },
+        {
+            "conId": 11,
+            "conName": "Nelsonic Game Watch",
+            "conRelease": "1989",
+            "conDiscont": "?",
+            "conType": "Wrist Game",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Fourth Generation"
+        },
+        {
+            "conId": 12,
+            "conName": "The Super Mario Bros. Watch",
+            "conRelease": "1990",
+            "conDiscont": "1990",
+            "conType": "Wrist Game",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Fourth Generation"
+        },
+        {
+            "conId": 13,
+            "conName": "Super Famicom/Super Nintendo Entertainment System",
+            "conRelease": "1990",
+            "conDiscont": "2003",
+            "conType": "Console",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Fourth Generation"
+        },
+        {
+            "conId": 14,
+            "conName": "Philips CD-i",
+            "conRelease": "1991",
+            "conDiscont": "1998",
+            "conType": "Console",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Fourth Generation"
+        },
+        {
+            "conId": 15,
+            "conName": "Gamewatch Boy",
+            "conRelease": "1992",
+            "conDiscont": "1995",
+            "conType": "Wrist Game",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Fourth Generation"
+        },
+        {
+            "conId": 16,
+            "conName": "Satellaview",
+            "conRelease": "1995",
+            "conDiscont": "2000",
+            "conType": "Add-on",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Fourth Generation"
+        },
+        {
+            "conId": 17,
+            "conName": "Virtual Boy",
+            "conRelease": "1995",
+            "conDiscont": "1996",
+            "conType": "Tabletop",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Fifth Generation"
+        },
+        {
+            "conId": 18,
+            "conName": "Nintendo 64",
+            "conRelease": "1996",
+            "conDiscont": "2003",
+            "conType": "Console",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Fifth Generation"
+        },
+        {
+            "conId": 19,
+            "conName": "Adobe Flash",
+            "conRelease": "1996",
+            "conDiscont": "2020",
+            "conType": "Multimmedia Software Platform",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "N/A"
+        },
+        {
+            "conId": 20,
+            "conName": "DVD",
+            "conRelease": "1996",
+            "conDiscont": "N/A",
+            "conType": "N/A",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "N/A"
+        },
+        {
+            "conId": 21,
+            "conName": "Game Boy Color",
+            "conRelease": "1998",
+            "conDiscont": "2003",
+            "conType": "Portable",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Fifth Generation"
+        },
+        {
+            "conId": 22,
+            "conName": "N64DD",
+            "conRelease": "1999",
+            "conDiscont": "2001",
+            "conType": "Add-on",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Fifth Generation"
+        },
+        {
+            "conId": 23,
+            "conName": "Game Boy Advance",
+            "conRelease": "2001",
+            "conDiscont": "2009",
+            "conType": "Portable",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Sixth Generation"
+        },
+        {
+            "conId": 24,
+            "conName": "Nintendo Gamecube",
+            "conRelease": "2001",
+            "conDiscont": "2008",
+            "conType": "Console",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Sixth Generation"
+        },
+        {
+            "conId": 25,
+            "conName": "e-Reader",
+            "conRelease": "2001",
+            "conDiscont": "2008",
+            "conType": "Add-on",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Sixth Generation"
+        },
+        {
+            "conId": 26,
+            "conName": "iQue Player",
+            "conRelease": "2003",
+            "conDiscont": "2016",
+            "conType": "Plug-and-Play",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Fifth Generation"
+        },
+        {
+            "conId": 27,
+            "conName": "Nintendo DS",
+            "conRelease": "2004",
+            "conDiscont": "2011",
+            "conType": "Portable",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Seventh Generation"
+        },
+        {
+            "conId": 28,
+            "conName": "Nintendo Wii",
+            "conRelease": "2006",
+            "conDiscont": "2013",
+            "conType": "Console",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Seventh Generation"
+        },
+        {
+            "conId": 29,
+            "conName": "WiiWare",
+            "conRelease": "2008",
+            "conDiscont": "2019",
+            "conType": "Online Service",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Seventh Generation"
+        },
+        {
+            "conId": 30,
+            "conName": "Mobile Phone",
+            "conRelease": "N/A",
+            "conDiscont": "N/A",
+            "conType": "N/A",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "N/A"
+        },
+        {
+            "conId": 31,
+            "conName": "Nintendo DSi",
+            "conRelease": "2008",
+            "conDiscont": "2013",
+            "conType": "Portable",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Seventh Generation"
+        },
+        {
+            "conId": 32,
+            "conName": "Nintendo 3DS",
+            "conRelease": "2011",
+            "conDiscont": "2020",
+            "conType": "Portable",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Eighth Generation"
+        },
+        {
+            "conId": 33,
+            "conName": "Wii U",
+            "conRelease": "2012",
+            "conDiscont": "2017",
+            "conType": "Console",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Eighth Generation"
+        },
+        {
+            "conId": 34,
+            "conName": "Play Nintendo",
+            "conRelease": "2014",
+            "conDiscont": "N/A",
+            "conType": "Multimedia Software Platform",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "N/A"
+        },
+        {
+            "conId": 35,
+            "conName": "Nvidia Shield TV",
+            "conRelease": "2015",
+            "conDiscont": "2019",
+            "conType": "Microconsole",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Eighth Generation"
+        },
+        {
+            "conId": 36,
+            "conName": "Nintendo Switch",
+            "conRelease": "2017",
+            "conDiscont": "N/A",
+            "conType": "Hybrid",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Eighth Generation"
+        },
+        {
+            "conId": 37,
+            "conName": "Nintendo Switch 2",
+            "conRelease": "2025",
+            "conDiscont": "N/A",
+            "conType": "Hybrid",
+            "conDev": null,
+            "conNotab": null,
+            "conGen": "Ninth Generation"
+        }
+    ],
+    "subseries": [
+        {
+            "subId": 1,
+            "subName": "Donkey Kong",
+            "firstGame": "1",
+            "notabGame": null
+        },
+        {
+            "subId": 2,
+            "subName": "Crazy Kong",
+            "firstGame": "2",
+            "notabGame": "3"
+        },
+        {
+            "subId": 3,
+            "subName": "Donkey Kong Jr.",
+            "firstGame": "5",
+            "notabGame": "16"
+        },
+        {
+            "subId": 4,
+            "subName": "Miscellaneous",
+            "firstGame": "7",
+            "notabGame": null
+        },
+        {
+            "subId": 5,
+            "subName": "Mario Bros.",
+            "firstGame": "9",
+            "notabGame": "24"
+        },
+        {
+            "subId": 6,
+            "subName": "Wrecking Crew",
+            "firstGame": "20",
+            "notabGame": null
+        },
+        {
+            "subId": 7,
+            "subName": "Super Mario",
+            "firstGame": "27",
+            "notabGame": null
+        }
+    ],
+    "character": [
+        {
+            "charId": 1,
+            "charName": "Mario",
+            "charPlay": "27",
+            "charDebut": "1",
+            "charSpec": "2"
+        },
+        {
+            "charId": 2,
+            "charName": "Cranky Kong",
+            "charPlay": null,
+            "charDebut": "1",
+            "charSpec": "1"
+        },
+        {
+            "charId": 3,
+            "charName": "Pauline",
+            "charPlay": null,
+            "charDebut": "1",
+            "charSpec": "2"
+        },
+        {
+            "charId": 4,
+            "charName": "Donkey Kong Jr.",
+            "charPlay": null,
+            "charDebut": "5",
+            "charSpec": "1"
+        },
+        {
+            "charId": 5,
+            "charName": "Stanley the Bugman",
+            "charPlay": null,
+            "charDebut": "7",
+            "charSpec": "2"
+        }
+    ],
+    "species": [
+        {
+            "speId": 1,
+            "speName": "Kong",
+            "spePlay": null,
+            "speDebut": "1",
+            "speMember": "2",
+            "family": "Hominid"
+        },
+        {
+            "speId": 2,
+            "speName": "Human",
+            "spePlay": null,
+            "speDebut": "1",
+            "speMember": "3",
+            "family": "Hominid"
+        },
+        {
+            "speId": 3,
+            "speName": "Fireball",
+            "spePlay": null,
+            "speDebut": "1",
+            "speMember": null,
+            "family": "Spirit"
+        },
+        {
+            "speId": 4,
+            "speName": null,
+            "spePlay": null,
+            "speDebut": "1",
+            "speMember": null,
+            "family": null
+        }
+    ]
+}

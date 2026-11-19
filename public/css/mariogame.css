@@ -1,3 +1,13 @@
+@font-face {
+  font-family: "Rodin";
+  src: url(rodin.tff);
+}
+
+@font-face {
+  font-family: "Pop Happiness";
+  src: url(pophappiness.ttf);
+}
+
 .bar {
   position: fixed;
   align-items: left;
@@ -15,6 +25,7 @@
 
 .intro {
   text-align: center;
+  font-family: "Pop Happiness";
   margin: -8px;
   background-image: url(retrobg.png);
   background-repeat: no-repeat;
@@ -28,5 +39,6 @@
 }
 
 h1 {
+  font-family: "Rodin";
   font-size: 50px;
 }
