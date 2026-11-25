@@ -8,12 +8,18 @@
   src: url(pophappiness.ttf);
 }
 
+body {
+  background-color: #1153e9;
+  background-image: url(allencompass.png);
+}
+
 .bar {
   position: fixed;
   align-items: left;
   padding: -10px;
   margin: -8px;
   margin-top: -30px;
+  width: 100%;
   background: #ff0000;
   background-size: cover;
 }
@@ -27,9 +33,10 @@
 .intro {
   text-align: center;
   padding-bottom: 5px;
+  padding-right: 64px;
   margin: -8px;
+  width: 100%;
   background-image: url(retrobg.png);
-  background-repeat: no-repeat;
   background-size: cover;
 }
 
@@ -46,6 +53,38 @@
 .intro p {
   font-family: "Rodin";
   color: #ffffff;
+}
+
+.presmb1 {
+  text-align: center;
+  background-image: url(1980era.png);
+  background-color: #1153e9;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.presmb img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+.smb1 {
+  text-align: center;
+  background-image: url(1985era.png);
+  background-color: #1153e9;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.smb img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+.filters {
+  align-items: center;
+  font-family: "Rodin";
 }
 
 h1 {
